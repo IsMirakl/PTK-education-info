@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 20px;
+    height: 85px;
+    background-color: #002884;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+}
+
+a {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
